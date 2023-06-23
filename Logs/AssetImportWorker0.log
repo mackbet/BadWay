@@ -224,3 +224,141 @@ Received Import Request.
   path: Assets/Scenes/Menu.unity
   artifactKey: Guid(5b6d8074398af024599acaf3cc42b5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Menu.unity using Guid(5b6d8074398af024599acaf3cc42b5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53223897c8032b9572ce310defe80a29') in 0.022623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1445.510173 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(40fc2fd9162c8904391cab37e518d272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(40fc2fd9162c8904391cab37e518d272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24469cb3d74080c78fffcba09d5a2b22') in 0.027278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.460748 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(29e52dec1febd4449b30cfcffefcd647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(29e52dec1febd4449b30cfcffefcd647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f37174e77d9b7427d1ed17aad8196571') in 0.023416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.680826 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(be7a7a36487c29b4baff00334fcf5120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(be7a7a36487c29b4baff00334fcf5120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '770935a6ac659c8207930444051f6f57') in 0.867410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.301770 seconds.
+  path: Assets/Prefabs/Monsters
+  artifactKey: Guid(591549371101fd940ab3dd49ed2a31aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Monsters using Guid(591549371101fd940ab3dd49ed2a31aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63a09b6ef8d89131d5478bc1054f54a9') in 0.020190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.064751 seconds.
+  path: Assets/Prefabs/Monsters/BadBat
+  artifactKey: Guid(58a345ce2c40a4a40bd59a4dec03556d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Monsters/BadBat using Guid(58a345ce2c40a4a40bd59a4dec03556d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2589c594fdd445500f9cd82da71fe6e') in 0.023610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.799297 seconds.
+  path: Assets/Prefabs/Monsters/Mummy
+  artifactKey: Guid(4005fae7a77580442ab13e87ae3ef54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Monsters/Mummy using Guid(4005fae7a77580442ab13e87ae3ef54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1071c84c5fbfec668fca6ce6fed4736f') in 0.016807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.116308 seconds.
+  path: Assets/Prefabs/Monsters/BadBat/Monster_Bat_Prefab.prefab
+  artifactKey: Guid(c9951ca0f61167b4593ffe21b0a089c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Monsters/BadBat/Monster_Bat_Prefab.prefab using Guid(c9951ca0f61167b4593ffe21b0a089c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef665795ce5284ca7fdf325255685fa') in 0.419409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Prefabs/Monsters/BadBat/sound wave.prefab
+  artifactKey: Guid(a95df9c66c9636d4aa9420170378fb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Monsters/BadBat/sound wave.prefab using Guid(a95df9c66c9636d4aa9420170378fb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e10a3a2667d1c69f18e958ae193b3c') in 0.042408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.245423 seconds.
+  path: Assets/Prefabs/Monsters/BadBat/sources
+  artifactKey: Guid(e748920ba66d3be4bbf5548a9b35747c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Monsters/BadBat/sources using Guid(e748920ba66d3be4bbf5548a9b35747c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e230b2bfc6fcedadadb2b7106df5150') in 0.018895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 368.656869 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(a68bc68f92eee764a927c34214aac7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(a68bc68f92eee764a927c34214aac7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79bb2cc55db001bda2171a6e912c65b8') in 0.022271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.189651 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5198f243d390e82c7cfd0238b4596da') in 0.019054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 150.013238 seconds.
+  path: Assets/Prefabs/Monsters/Mummy/mummy.prefab
+  artifactKey: Guid(6d232d7089b857f44ae5751a8d3a2edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Monsters/Mummy/mummy.prefab using Guid(6d232d7089b857f44ae5751a8d3a2edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949844b6dad14b06ea5c1b2d56a66f10') in 0.091314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 461.290740 seconds.
+  path: Assets/Chunks
+  artifactKey: Guid(eab98a097928be8488109a4bf54f7cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks using Guid(eab98a097928be8488109a4bf54f7cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43d7142abb3ff33f5c866ccf3db2e088') in 0.030088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023389 seconds.
+  path: Assets/Chunks/chunk1.prefab
+  artifactKey: Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk1.prefab using Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6acb28539afe29ec92fedce59d0ef0') in 0.250776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Chunks/chunk3.prefab
+  artifactKey: Guid(34719c4f63dd3c24f8bd9f5308098fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk3.prefab using Guid(34719c4f63dd3c24f8bd9f5308098fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35068e55bd012ae252f7d886a5f92ca') in 0.072753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001266 seconds.
+  path: Assets/Chunks/chunk2.prefab
+  artifactKey: Guid(acd09a997ca82e449a8dae97671886d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk2.prefab using Guid(acd09a997ca82e449a8dae97671886d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d272e0e98a76b1692bcdcf726c6a74') in 0.213327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.729741 seconds.
+  path: Assets/Chunks/chunk1.prefab
+  artifactKey: Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk1.prefab using Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0b8ae5161261e5e42940e00521767e') in 0.327588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.801055 seconds.
+  path: Assets/Chunks/chunk1.prefab
+  artifactKey: Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk1.prefab using Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c90048d860b9937b39578cbaa5e882') in 0.287576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.522459 seconds.
+  path: Assets/Chunks/chunk1.prefab
+  artifactKey: Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk1.prefab using Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff387e99a174ecef0346b3231961b19') in 0.309394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.638939 seconds.
+  path: Assets/Chunks/chunk1.prefab
+  artifactKey: Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk1.prefab using Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bbd658c10eaa554def496ba196fc0fd') in 0.360380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.248311 seconds.
+  path: Assets/Chunks/chunk1.prefab
+  artifactKey: Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk1.prefab using Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f72e10f2c058d4cb7b0242cf6e4118') in 0.294873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 180.134986 seconds.
+  path: Assets/Chunks/chunk1.prefab
+  artifactKey: Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk1.prefab using Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae520b9bed7cb94ea8ca72884062d1e3') in 0.313403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.421914 seconds.
+  path: Assets/Chunks/chunk1.prefab
+  artifactKey: Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Chunks/chunk1.prefab using Guid(8d255199118965d4d8fec1411ffa8e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f62b9d7b8243ff1782d12938ecf1800') in 0.275208 seconds 
