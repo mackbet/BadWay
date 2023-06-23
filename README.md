@@ -26,3 +26,7 @@ The map has a NavMesh Surface component. He creates a map for the movement of th
 
 ![image](https://github.com/mackbet/BadWay/assets/89740987/a80baeb5-9f61-4fa8-880c-f6ad1344d9dc)
 
+# Map Generation
+3 chunks were created to generate the map. They are randomly generated as the character advances. After spawning, the chunk randomly removes some elements for a change.
+
+![image](https://github.com/mackbet/BadWay/assets/89740987/deccfe66-f68f-49d4-a5df-33d3c1b11e8b)
